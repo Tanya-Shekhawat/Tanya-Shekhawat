@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yves54
+- 👋 Hi, I’m Tanya Shekhawat
 - 👀 I’m interested in learning data science
 - 🌱 I’m currently persuing my Bachelors in Data Science. 
 - 💞️ I’m looking to collaborate on projects. 
