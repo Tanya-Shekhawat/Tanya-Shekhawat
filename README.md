@@ -6,7 +6,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=blue-green)
 
 
 <!---
