@@ -6,8 +6,14 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=blue-green)
- 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=aura" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yves54&layout=compact" />
+</a>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=aura) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yves54&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,3 +22,7 @@
 Yves54/Yves54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=blue-green) -->
+ 
