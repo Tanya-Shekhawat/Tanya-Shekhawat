@@ -8,7 +8,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=blue-green)
  
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=aura) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=aura) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yves54&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Yves54/Yves54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
