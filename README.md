@@ -3,9 +3,9 @@
 - 🌱 I’m currently persuing my Bachelors in Data Science. 
 - 💞️ I’m looking to collaborate on projects. 
 - 📫 How to reach me: Mail me at 9tanya18@gmail.com
-<br>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
-<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=radical)
 
 
