@@ -8,8 +8,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=aura) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yves54&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=aura" />
