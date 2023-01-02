@@ -5,7 +5,7 @@
 - 📫 How to reach me: Mail me at 9tanya18@gmail.com
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id) -->
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=aura) 
 
