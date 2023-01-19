@@ -8,7 +8,7 @@
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
 ![Visitors](https://visitor-badge.deta.dev/badge?page_id=AmreshSinha.AmreshSinha)
 <!-- ![Visitors](https://visitor-badge.deta.dev/badge?page_id=Yves54.Yves54) -->
-
+(https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=aura)
 
 <!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -23,5 +23,3 @@ Yves54/Yves54 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=blue-green)
- 
