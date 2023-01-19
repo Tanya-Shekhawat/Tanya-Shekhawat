@@ -8,7 +8,7 @@
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
 ![Visitors](https://visitor-badge.deta.dev/badge?page_id=AmreshSinha.AmreshSinha)
 <!-- ![Visitors](https://visitor-badge.deta.dev/badge?page_id=Yves54.Yves54) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yves54/Yves54&theme=dark&show_icons=true)
 
 <!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
