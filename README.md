@@ -66,17 +66,10 @@
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
-
 </p>
-
-<br>
-<br>
-<br>
-
 -----
-
 <br>
-<br>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
 
 ## <b><p width ="80">🤝 Let's Connect..!</p></b>
 <br>
@@ -121,9 +114,9 @@
 <!-- ![Visitors](https://visitor-badge.deta.dev/badge?page_id=Yves54.Yves54) -->
 
 
-📫 How to reach me:
+<!-- 📫 How to reach me:
 <br>
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tanya-shekhawat)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tanya-shekhawat) -->
 <!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=aura" />
