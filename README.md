@@ -1,22 +1,20 @@
 <h1 align="center"><b>Hi , I'm Tanya Shekhawat </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile..&hearts;++;Self-taught+Front-End+Developer,;Data+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile..&hearts;++;Data+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuff..<3"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile..&hearts;++;Data+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
+
 <br>
 
 
 
 
-- 👋 Hi, I’m Tanya Shekhawat
+<!-- - 👋 Hi, I’m Tanya Shekhawat
 - 👀 I’m interested in learning data science
 - 🌱 I’m currently persuing my Bachelors in Data Science. 
 - 💞️ I’m looking to collaborate on projects. 
-- 📫 How to reach me: Mail me at 9tanya18@gmail.com
+- 📫 How to reach me: Mail me at 9tanya18@gmail.com -->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id) -->
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
