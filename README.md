@@ -66,15 +66,15 @@
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
-</p>
-<br>
+</p><br>
+<!-- <br>
 <br>
 -----
 <br>
-<br>
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
+<br> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## <b><p width ="80">🤝 Let's Connect..!</p></b>
+## <b>🤝 Let's Connect..!</b>
 <br>
 <div align='left'>
 
