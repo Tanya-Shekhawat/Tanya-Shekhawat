@@ -10,7 +10,7 @@
 <!-- ![Visitors](https://visitor-badge.deta.dev/badge?page_id=Yves54.Yves54) -->
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username={Yves54}&theme=blue-green)
+![Github Stats](https://github-readme-stats.vercel.app/api?Yves54={Yves54}&theme=blue-green)
 <!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=aura" />
