@@ -8,8 +8,7 @@
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
 ![Visitors](https://visitor-badge.deta.dev/badge?page_id=AmreshSinha.AmreshSinha)
 <!-- ![Visitors](https://visitor-badge.deta.dev/badge?page_id=Yves54.Yves54) -->
-
-
+https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
 <!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=aura" />
