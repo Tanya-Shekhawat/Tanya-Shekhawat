@@ -7,9 +7,9 @@
 	
 ## **About me**
 <br>
-- 👀 I’m interested in learning data science
-- 🌱 I’m currently persuing my Bachelors in Data Science. 
-- 💞️ I’m looking to collaborate on projects. 
+- 👀 I’m interested in learning data science.<br>
+- 🌱 I’m currently persuing my Bachelors in Data Science. <br>
+- 💞️ I’m looking to collaborate on projects. <br>
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
