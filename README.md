@@ -5,12 +5,8 @@
 </p>
 <br>
 	
-## <picture><img src = "" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="" width = 250px></picture>
-
+## **About me**
 <br>
-
 - 👀 I’m interested in learning data science
 - 🌱 I’m currently persuing my Bachelors in Data Science. 
 - 💞️ I’m looking to collaborate on projects. 
