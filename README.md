@@ -9,7 +9,7 @@
 ![Visitors](https://visitor-badge.deta.dev/badge?page_id=AmreshSinha.AmreshSinha)
 <!-- ![Visitors](https://visitor-badge.deta.dev/badge?page_id=Yves54.Yves54) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yves54&show_icons=true&theme=aura) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yves54&theme=dark&show_icons=true)
 
 <!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
