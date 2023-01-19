@@ -78,7 +78,7 @@
 <br>
 <br>
 
-## <b><p width ="80">🤝</p> Let's Connect..!></b>
+## <b><p width ="80">🤝 Let's Connect..!</p></b>
 <br>
 <div align='left'>
 
