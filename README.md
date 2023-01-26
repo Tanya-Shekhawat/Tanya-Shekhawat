@@ -175,4 +175,4 @@ Yves54/Yves54 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![Views](https://komarev.com/ghpvc/?username=Yves54&color=blueviolet)
+<!-- ![Views](https://komarev.com/ghpvc/?username=Yves54&color=blueviolet) -->
