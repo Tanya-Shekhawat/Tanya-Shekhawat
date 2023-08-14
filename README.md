@@ -85,7 +85,7 @@
 [![Tanya Shekhawat's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Tanya-Shekhawat&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Tanya Shekhawat's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Tanya-Shekhawat&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Tanya Shekhawat's GitHub Streak](https://streak-stats.demolab.com/?user=Tanya-Shekhawat&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=github-dark)](https://git.io/streak-stats&theme=github-dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanya-Shekhawat&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&card_width=470)](https://git.io/streak-stats)
 
 </div>
 
