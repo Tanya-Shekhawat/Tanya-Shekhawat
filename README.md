@@ -9,7 +9,7 @@
 ## **About me**
 <br>
 - 👀 I’m interested in learning data science.<br>
-- 🌱 I’m currently persuing my Bachelors in Data Science. <br>
+- 🌱 I’m currently pursuing my Bachelor in Data Science. <br>
 - 💞️ I’m looking to collaborate on projects. <br>
 <br><br>
 
@@ -80,15 +80,21 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
+<div align="center" display="flex" >
 
 [![Tanya Shekhawat's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Tanya-Shekhawat&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Tanya Shekhawat's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Tanya-Shekhawat&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Tanya Shekhawat's GitHub Streak](https://streak-stats.demolab.com/?user=Tanya-Shekhawat&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=github-dark)](https://git.io/streak-stats&theme=github-dark)
 
 </div>
 
 <br>
 <br>
+
+
+
+
 
 -----
 
